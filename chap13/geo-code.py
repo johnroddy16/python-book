@@ -7,7 +7,7 @@ import urllib.request, urllib.parse, urllib.error
 import json
 import ssl
 
-api_key = 'AIzaSyDSD2XIbfQ6mJT0dGaaF_Y8WMsrNoXaBoo'    # 42 
+api_key = '????????????????'    # 42  (ignore the number 42)
 
 serviceurl = 'https://maps.googleapis.com/maps/api/geocode/json?'   # 'http://py4e-data.dr-chuck.net/json?'
 
